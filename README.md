@@ -1,50 +1,78 @@
-<h1>
- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" style="vertical-align:middle;"> 
- Python Projects Repository
-</h1>
+# 👋 Hi, I'm MD ATIF KALIM
 
-![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-orange?style=flat-square)
-![GitHub Repo](https://img.shields.io/badge/Repo-Public-green?style=flat-square)
 
-> A **collection of Python projects** including **Data Analysis, Automation, Web Scraping, GUI applications, and Algorithms**.  
-> Clean, modular, and ready-to-run scripts — perfect for learning, reference, and portfolio building.
+💡 **Data Analyst | Python | SQL | Excel | Power BI | R Programming | Turning Raw Data into Actionable Insights**  
 
 ---
 
-## ✨ Features
-
-- 🚀 Multiple Python projects covering **Data Analysis, Automation, Web Scraping, GUI apps, and Algorithms**  
-- 📊 Includes **data processing, visualizations, and reports**  
-- 💻 Ready-to-run scripts with **sample input/output**  
-- 📝 Well-documented, clean, and modular code  
-- 🏆 Ideal for learning, showcasing skills, and portfolio enhancement  
-
----
-
-## 📚 Projects Showcase
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| E-commerce Sales Analysis | Analyze sales trends, top products & customer behavior | Python, Pandas, Matplotlib |
-| Web Scraping Tool | Extract structured data from websites automatically | Python, Requests, BeautifulSoup |
-| GUI Calculator | Interactive calculator application | Python, Tkinter |
-| Algorithm Collection | Implementations of classic algorithms | Python |
+## 🔥 About Me  
+- 🎓 BCA Student passionate about **Data Analytics & AI**  
+- 📊 Skilled in **Python, Pandas, NumPy, Matplotlib, Seaborn, SQL, Excel, R**  
+- 🧩 Strong problem-solving mindset & analytical thinking  
+- 📈 Interested in **Data Visualization, Machine Learning, and Automation**  
+- ⚡ Typing Speed: 40+ WPM  
 
 ---
 
-## ⚡ Installation
+## 🚀 Projects  
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/python-projects.git
+### 🔹 Python Projects  
+- [**Python-Project**](https://github.com/mdatifkalim/Python-Project) – A collection of advanced and practical Python projects, showcasing programming, automation, and AI.  
 
-# Navigate into the repo
-cd python-projects
+### 🔹 Excel Projects  
+- [**Excel-Project**](https://github.com/mdatifkalim/Excel-Project) – A collection of Excel projects, highlighting dashboards, data cleaning, and reporting.
+  
+### 🔹 MySQL Projects  
+- [**MySQL-Project**](https://github.com/mdatifkalim/SQL-Project) – A collection of SQL projects demonstrating data querying, database design, and analysis skills using complex joins, subqueries, and aggregate functions.
+  
+   🔹 Power BI Projects  
+- [**Power BI-Project**](https://github.com/mdatifkalim/Python-Project) – A collection of Power BI dashboards and reports showcasing data visualization, KPI tracking, and business insights through interactive analytics.
+  
+ 🔹 R Programming Projects  
+- [**R Programming-Project**](https://github.com/mdatifkalim/Python-Project) – A collection of R programming projects focusing on data analysis, visualization, and statistical modeling.
 
-# (Optional) Create virtual environment
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
+---
 
-# Install dependencies
-pip install -r requirements.txt
+## 🛠️ Skills  
+
+### 🔹 Programming & Data  
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### 🔹 Visualization  
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-005C9C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel%20Dashboards-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+### 🔹 Tools  
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdatifkalim&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdatifkalim&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/mdatifkalim)  
+
+---
+
+✨ *"Data is the new oil, but insight is the engine."*  
