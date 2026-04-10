@@ -1,39 +1,27 @@
-# Gemini AI Chatbot (Python)
+# Digital Clock (Python + Tkinter)
 
-This is a **Python-based chatbot** powered by **Google Gemini API**.  
-It allows you to interact with the Gemini generative AI model via a simple command-line interface (CLI).
+This project is a simple **Digital Clock** built with Python and Tkinter.  
+It displays the **current time, date, and day** in a clean, user-friendly GUI and updates every second in real-time.
 
 ---
 
 ## 🚀 Features
-
-- Chat with **Gemini AI** in real-time  
-- Uses the **Gemini-1.5-Flash** model for generating responses  
-- Simple **CLI interface**  
-- Supports continuous conversation until the user exits  
-
----
-
-## 🖥️ How It Works
-
-- The script reads your input from the terminal  
-- Sends it to Gemini AI using the Google Generative AI API  
-- Displays the AI-generated response instantly  
-- Conversation continues until you type `quit`, `exit`, or `bye`  
+- Real-time **digital clock** display.
+- Shows **current date** and **day of the week**.
+- Customizable **fonts** and **colors**.
+- Lightweight and easy to run.
 
 ---
 
-## 💻 Prerequisites
-
-- Python 3.x installed  
-- A valid **Google Gemini API key**  
+## 🛠️ Technologies Used
+- **Python 3**
+- **Tkinter** (for the GUI)
+- **datetime** (for date and day)
+- **time** (for real-time clock updates)
 
 ---
 
-## 🔧 Installation
-
-1. Clone the repository or download the script file.  
-2. Install required dependencies:
-
-```bash
-pip install google-generativeai python-dotenv
+## 📂 How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/PANAKAJ01/Python-Project.git
